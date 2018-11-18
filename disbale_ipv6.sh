@@ -11,3 +11,4 @@ else
 fi
 
 sysctl -p
+# ip addr show | grep net6
